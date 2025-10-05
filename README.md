@@ -1,3 +1,4 @@
+[![Node.js CI](https://github.com/yuhsiang237/next-static-playground/actions/workflows/node.js.yml/badge.svg)](https://github.com/yuhsiang237/next-static-playground/actions/workflows/node.js.yml)  
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
