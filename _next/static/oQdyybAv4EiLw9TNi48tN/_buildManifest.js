@@ -1,12 +1,12 @@
 self.__BUILD_MANIFEST = {
   "/_error": [
-    "./static/chunks/355c3ac3f6dc5451.js"
+    "./static/chunks/8c9fcdc76c796f4a.js"
   ],
   "__rewrites": {
     "afterFiles": [],
     "beforeFiles": [
       {
-        "source": "/next-static-playground/assets//_next/:path+",
+        "source": "/next-static-playground//_next/:path+",
         "destination": "/next-static-playground/_next/:path+"
       }
     ],
